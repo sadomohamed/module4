@@ -1,0 +1,66 @@
+h1 { 
+  font-family: '18thCenturyInitialsRegular'; 
+  font-weight: normal; 
+  font-style: normal; 
+}
+
+* {
+  font-family: Arial, Verdana, sans-serif;
+  color: #0a0a09;
+  text-align: center;
+}
+
+body { width:90%;
+       margin: 0 auto;
+
+}
+body {
+  background-image: url(https://upload.wikimedia.org/wikipedia/en/thumb/2/2f/Before-sunrise-perse-rock.jpg/1200px-Before-sunrise-perse-rock.jpg)}
+  width: 90%;
+  margin: 0 auto;
+}
+
+
+#content {
+  overflow: auto;}
+#nav, #feature, #footer {
+  margin: 1%;}
+.column1, .column2, .column3 {
+  width: 31.3%;
+  float: left;
+  margin: 1%}
+.column3 {
+  margin-right: 0%;}
+li {
+  display: inline;
+  padding: 0.5em;}
+#nav, #footer {
+  background-color: #723030;
+  padding: 0.5em 0;}
+
+#feature, .article {
+  
+height: 10em;
+  margin-bottom: 1em;
+  background-color: #ae9494
+  }
+
+#feature {
+  background-color: #8CC63E;
+  background-image: url("https://images.pexels.com/photos/56866/garden-rose-red-pink-56866.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+  background-size:contain;
+  background-position: center;
+  background-repeat:no-repeat;
+}
+
+
+.column1 { 
+  background-color: indianred
+}
+.column2{ 
+  background-color: darkgoldenrod
+}
+.column3{ 
+  background-color: whitesmoke
+}
+    
